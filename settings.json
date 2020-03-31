@@ -1,0 +1,8 @@
+{
+  "galaxy.meteor.com": {
+    "env": {
+      "MONGO_URL":"mongodb+srv://db_write_user:uAGoqcWnn1uZW7he@cluster0-jpgeg.mongodb.net/viralapp?retryWrites=true&w=majority&authSource=admin&ssl=true&replicaSet=cluster0-shard-00-02-jpgeg"
+    }
+  }
+  
+}
